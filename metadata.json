@@ -1,0 +1,6 @@
+{
+  "name": "Delta 727-200 DFW Flight Simulator",
+  "description": "3D mobile and desktop flight simulator featuring a 1980s Delta Air Lines Boeing 727-200 Advanced, softbody crash physics, and Dallas/Fort Worth International Airport with Cesium satellite scenery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
